@@ -1,0 +1,11 @@
+{
+	"id": "translate_ai",
+	"name": "for_my_sister",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "右键选中文字，AI 即时翻译，悬浮显示结果",
+	"author": "Obsidian",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}
